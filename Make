@@ -1,0 +1,17 @@
+-I .
+-R . NumeralNotation
+
+Decimal.v
+NumeralNotation.v
+DecimalFacts.v
+DecimalNat.v
+DecimalBin.v
+DecimalPos.v
+DecimalN.v
+DecimalZ.v
+DecimalString.v
+NatNotation.v
+BinNotation.v
+AltBinNotation.v
+g_numeral.ml4
+numeral_notation_plugin.mlpack
